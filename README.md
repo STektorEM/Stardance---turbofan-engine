@@ -55,7 +55,7 @@ You can:
 
 Incase the link doesn't work, copy it in a new tab
 
-If you have trouble finding the Section View option click [here](./Tutorial/tutorial.md)
+If you have trouble finding the Section View option click [here](./Tutorial/tutorial.mp4)
 
 
 
