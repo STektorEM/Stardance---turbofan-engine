@@ -55,6 +55,8 @@ You can:
 
 Incase the link doesn't work, copy it in a new tab
 
+## AI Usage
+AI tools were used as a help during the creation of this project. I used AI for direction while working with Onshape because I didn't know much about the software before. I also used AI to help not only with the README but with Github in general, since my experience with Github is even less than that of Onshape.
 
 
 
