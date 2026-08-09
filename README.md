@@ -1,8 +1,6 @@
 # ✈️ Interactive Turbofan Engine
 
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Turbofan Engine CAD Model" width="900">
-</p>
+
 
 <p align="center">
   <b>Interactive 3D turbofan engine designed and modeled in Onshape.</b>
