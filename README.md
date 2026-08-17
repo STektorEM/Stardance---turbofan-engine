@@ -1,12 +1,6 @@
-# ✈️ Interactive Turbofan Engine
+#  Interactive Turbofan Engine
 
 
-
-<p align="center">
-  <b>Interactive 3D turbofan engine designed and modeled in Onshape.</b>
-</p>
-
----
 
 ## Project Overview
 
