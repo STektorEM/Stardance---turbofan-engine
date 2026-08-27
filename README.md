@@ -1,16 +1,12 @@
 #  Interactive Turbofan Engine
 
 
+<p align="center">
+A 3D CAD model of a Turbofan Engine designed in Onshape
+</p>
 
-## Project Overview
 
-This project is a detailed **3D CAD model of a turbofan engine**, designed in **Onshape**.
-
-The model represents the major components of a modern turbofan engine and is designed to allow users to explore the engine's internal structure and understand how the different stages interact.
-
-The goal of this project is not simply to create a visually accurate model, but to make the engine **interactive and understandable**.
-
----
+![Screenshot](screenshot.png)
 
 ##  Engine Architecture
 
