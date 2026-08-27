@@ -5,39 +5,7 @@
 A 3D CAD model of a Turbofan Engine designed in Onshape
 </p>
 
-
-![Screenshot](screenshot.png)
-
-##  Engine Architecture
-
-The model includes the major stages of a turbofan engine:
-
--  **Fan**
--  **Low-pressure compressor**
--  **High-pressure compressor**
--  **Combustion chamber**
--  **High-pressure turbine**
--  **Low-pressure turbine**
--  **Exhaust nozzle**
--  **Central shaft system**
--  **Engine casing**
-
-The different components are modeled as separate parts and assemblies to make the internal architecture easier to inspect.
-
----
-
-##  Interactive Model
-
-One of the main features of this project is that the engine can be **interactively explored in Onshape**.
-
-You can:
-
-- Rotate the engine
-- Zoom in and out
-- Inspect individual components
-- Explore the internal geometry
-- View assemblies and individual parts
-- (Tip) Section View the Engine and exclude all the parts that you want to see individually
+<img width="1355" height="760" alt="Turbofan engine ship ready" src="https://github.com/user-attachments/assets/85f86b95-9214-483b-b0ca-26bbe834c651" />
 
 ### 🔗 [Open the Interactive Onshape Model](YOUR_ONSHAPE_LINK_HERE)
 
