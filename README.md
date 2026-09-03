@@ -33,6 +33,9 @@ A turbofan engine works by pulling air into its main fan. The fan pushes most of
 # Tip:
 Since the engine is covered with the casing, use the section view option to split the engine in half
 
+# Makerworld
+You can find me and my designs [here](https://makerworld.com/en/@ektoracc).
+
 
 
 
