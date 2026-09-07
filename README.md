@@ -2,7 +2,7 @@
 
 
 <p align="center">
-A 3D CAD model of a Turbofan Engine designed in Onshape
+A 3D CAD model of a Turbofan Engine
 </p>
 
 <img width="1355" height="760" alt="Turbofan engine ship ready" src="https://github.com/user-attachments/assets/85f86b95-9214-483b-b0ca-26bbe834c651" />
