@@ -8,13 +8,20 @@ A 3D CAD model of a Turbofan Engine
 <img width="1355" height="760" alt="Turbofan engine ship ready" src="https://github.com/user-attachments/assets/85f86b95-9214-483b-b0ca-26bbe834c651" />
 
 
-Open 3D Model ↓
-> https://cad.onshape.com/documents/984d962bb9adafb8b26d76f9/w/71b1be5ceee4695950289f6c/e/b86db408d992904b6879ac68?renderMode=0&uiState=6a9028e3485ecb082c186da4
+Links↓
+ 
+ 
+DEMO: (https://makerworld.com/en/models/3241119-small-turbofan-enigne)
+
+Makerworld: (https://makerworld.com/en/@ektoracc)
+
+Interactive 3D Model Onshape link: https://cad.onshape.com/documents/984d962bb9adafb8b26d76f9/w/71b1be5ceee4695950289f6c/e/b86db408d992904b6879ac68?renderMode=0&uiState=6aaebd0a812024e07a117d8a
+
+Incase the interactive model link doesn't open, copy it and paste in a new tab
 
 
 
 
-Incase the link doesn't work, copy it in a new tab
 
 # Project Features
 
@@ -33,11 +40,6 @@ A turbofan engine works by pulling air into its main fan. The fan pushes most of
 # Tip:
 Since the engine is covered with the casing, use the section view option to split the engine in half
 
-# Makerworld
-You can find me and my designs [here](https://makerworld.com/en/@ektoracc).
-
- # DEMO URL: 
-https://makerworld.com/en/models/3241119-small-turbofan-enigne
 
 
 
