@@ -11,13 +11,11 @@ A 3D CAD model of a Turbofan Engine
 Links↓
  
  
-DEMO: (https://makerworld.com/en/models/3241119-small-turbofan-enigne)
 
-Makerworld: (https://makerworld.com/en/@ektoracc)
+My Makerworld Profile: (https://makerworld.com/en/@ektoracc)
 
-Interactive 3D Model Onshape link: https://cad.onshape.com/documents/984d962bb9adafb8b26d76f9/w/71b1be5ceee4695950289f6c/e/b86db408d992904b6879ac68?renderMode=0&uiState=6aaebd0a812024e07a117d8a
+DEMO/Makerworld link: (https://makerworld.com/en/models/3241119-small-turbofan-enigne)
 
-Incase the interactive model link doesn't open, copy it and paste in a new tab
 
 
 
